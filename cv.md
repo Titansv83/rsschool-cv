@@ -1,10 +1,11 @@
 #**Sergei Severin**
 ========
-##Contact##
+##Contact
 
-Phone: +375293093470  
-e-mail: titansv@gmail.com  
-Discord: Titansv (@Titansv83)
+**Location:** Pinsk, Belarus  
+**Phone:** +375293093470  
+**e-mail:** titansv@gmail.com  
+**Discord:** Titansv (@Titansv83)
 ********
 
 ##About me  
