@@ -1,18 +1,18 @@
 #**Sergei Severin**
+========
+##Contact##
 
-##Contact
-
-###Phone  
-+375293093470  
-###e-mail  
-titansv@gmail.com  
-###Discord:  
-Titansv (@Titansv83)
+Phone: +375293093470  
+e-mail: titansv@gmail.com  
+Discord: Titansv (@Titansv83)
+********
 
 ##About me  
+My goal is to study programming for the purpose of further employment.
+I have been working as an automation engineer at a power plant for more than 10 years.
+
+*******
+##Experience
 My English level is A1.
 
-##Experience
-
-Моя цель заключается в изучении программирования с целью дальнейшего трудоустройства. Я хочу сделать данную профессию основным видом деятельности. Приоритеты: семья и работа. 
-Мой опыт работы связан с автоматизацией в энергетике, я работаю инжнером по автоматизированным системам управления производством на ТЭЦ более 10 лет. 
+ 
