@@ -1,6 +1,6 @@
-#**Sergei Severin**
-========
-##Contact
+# **Sergei Severin**
+
+## Contact
 
 **Location:** Pinsk, Belarus  
 **Phone:** +375293093470  
@@ -9,8 +9,20 @@
 ********
 
 ##About me  
+
+Acting Automation Engineer at a power plant (more then 10 years).
+
+
 My goal is to study programming for the purpose of further employment.
-I have been working as an automation engineer at a power plant for more than 10 years.
+
+
+##Code Example
+```function multiply(a, b) { 
+
+ return a * b;
+
+ } ​
+```
 
 *******
 ##Experience
