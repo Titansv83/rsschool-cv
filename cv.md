@@ -8,24 +8,36 @@
 **Discord:** Titansv (@Titansv83)
 ********
 
-##About me  
+## About me  
+Acting automation engineer at a power plant (more then 10 years).
+My goal is to study programming for the purpose of further employment. 
 
-Acting Automation Engineer at a power plant (more then 10 years).
+My strong qualities:
+* Analytical mindset
+* Perseverance
+* Responsibility
+* Assiduity
 
-
-My goal is to study programming for the purpose of further employment.
-
-
-##Code Example
-```function multiply(a, b) { 
-
+***
+## Code Example
+```
+function multiply(a, b) { 
  return a * b;
-
  } ​
 ```
 
 *******
-##Experience
-My English level is A1.
+## Skills
+* HTML
+* CSS
+* Git
+***
+## Education
+* Belarusian State Technological University, electrical engineer
+* https://ru.code-basics.com (HTML and CSS)
+***
+## Languages
+* Russian - native
+* English - A1
 
  
