@@ -25,13 +25,12 @@ function multiply(a, b) {
  return a * b;
  } ​
 ```
-
-*******
+---
 ## Skills
 * HTML
 * CSS
 * Git
-***
+---
 ## Education
 * Belarusian State Technological University, electrical engineer
 * https://ru.code-basics.com (HTML and CSS)
