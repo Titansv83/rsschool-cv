@@ -23,6 +23,7 @@ My strong qualities:
 * HTML
 * CSS
 * Git
+
 ***
 ## Code Example
 ```
