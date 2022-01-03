@@ -19,6 +19,11 @@ My strong qualities:
 * Assiduity
 
 ***
+## Skills
+* HTML
+* CSS
+* Git
+***
 ## Code Example
 ```
 function multiply(a, b) { 
@@ -26,14 +31,9 @@ function multiply(a, b) {
  } ​
 ```
 ---
-## Skills
-* HTML
-* CSS
-* Git
----
 ## Education
 * Belarusian State Technological University, electrical engineer
-* https://ru.code-basics.com (HTML and CSS)
+* ru.code-basics.com (HTML and CSS)
 ***
 ## Languages
 * Russian - native
