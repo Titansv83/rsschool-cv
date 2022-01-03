@@ -4,7 +4,7 @@
 
 **Location:** Pinsk, Belarus  
 **Phone:** +375293093470  
-**e-mail:** titansv@gmail.com  
+**E-mail:** titansv@gmail.com  
 **Discord:** Titansv (@Titansv83)
 ********
 
