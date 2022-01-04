@@ -8,3 +8,10 @@
     src: url("assets/fonts/OpenSans-Regular.ttf");
     font-weight: 300;  
   }
+
+  * {box-sizing: border-box;}
+
+  .header {border: 1px solid red;}
+  .main {border: 1px dotted seagreen;}
+  .footer {border: 1px dashed blueviolet;}
+  .body {min-height: 100vh;}
