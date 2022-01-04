@@ -3,6 +3,7 @@
   src: url("assets/fonts/OpenSans-Light.ttf");
   font-weight: 100;  
 }
+
 @font-face {
     font-family: 'Open Sans';
     src: url("assets/fonts/OpenSans-Regular.ttf");
@@ -12,8 +13,11 @@
   * {box-sizing: border-box;}
 
   .header {border: 1px solid red;}
+
   .main {border: 1px dotted seagreen;}
+
   .footer {border: 1px dashed blueviolet;}
+
   .body {
       min-height: 100vh;
       margin: 0;
@@ -23,3 +27,7 @@
       justify-content: space-between;  
     }
       
+   .container {
+       max-width: 1440px;
+       margin: 0 auto;
+    }
