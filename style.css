@@ -1,1 +1,10 @@
-h1 {font-family: 'Times New Roman', Times, serif; color: blueviolet;}
+@font-face {
+  font-family: 'Open Sans';
+  src: url("assets/fonts/OpenSans-Light.ttf");
+  font-weight: 100;  
+}
+@font-face {
+    font-family: 'Open Sans';
+    src: url("assets/fonts/OpenSans-Regular.ttf");
+    font-weight: 300;  
+  }
