@@ -15,7 +15,6 @@ html {
 
 * {box-sizing: border-box;}
 
-.header {border: 1px solid red;}
 
 .main {border: 1px dotted seagreen;}
 
@@ -72,14 +71,25 @@ html {
  .main-container {
    display: flex;
    flex-wrap: wrap;
+   border: 1px cadetblue;
  }
  
  .section {
   width: 50%;
- }
+   }
+  
+  .section-profile {
+display: flex; 
+border: solid 1px red;
+}
 
 @media (max-width: 768px) {
   .section {
     width: 100%;
   }
 }
+
+.round {
+  border-radius: 80%;
+}
+
