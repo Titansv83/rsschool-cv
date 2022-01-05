@@ -13,15 +13,16 @@ html {
     font-weight: 300;  
   }
 
-  * {box-sizing: border-box;}
+* {box-sizing: border-box;}
 
-  .header {border: 1px solid red;}
+.header {border: 1px solid red;}
 
-  .main {border: 1px dotted seagreen;}
+.main {border: 1px dotted seagreen;}
 
-  .footer {border: 1px dashed blueviolet;}
+.footer {border: 1px dashed blueviolet;}
 
-  .body {
+.body {
+      font-family: 'Open Sans';
       min-height: 100vh;
       margin: 0;
       padding: 0;  
@@ -30,13 +31,32 @@ html {
       justify-content: space-between;  
     }
       
-   .container {
+.container {
        max-width: 1440px;
        margin: 0 auto;
     }
 
-    .nav-list {
+.nav-list {
       display: flex;
       justify-content: flex-end;
       align-items: center;
+      list-style: none;
     }
+
+.nav-link {
+      padding: 0 20px;
+      line-height: 50px;
+      font-size: 36px red;
+      text-decoration: none;
+      transition: 0.3s;
+      }
+
+.section-item a {
+  color: #829985;
+  text-decoration: none;
+  transition: color 0,5s;
+}
+
+.section-item a:hover {
+  color: #4d2323;
+}
