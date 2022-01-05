@@ -38,7 +38,7 @@ html {
 
 .nav-list {
       display: flex;
-      justify-content: flex-end;
+      justify-content: flex-start;
       align-items: center;
       list-style: none;
     }
@@ -59,4 +59,13 @@ html {
 
 .section-item a:hover {
   color: #4d2323;
+}
+
+.contacts {
+  list-style: none;
+}
+
+.bold {
+  font-weight: bold;
+ 
 }
