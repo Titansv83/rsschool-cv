@@ -1,6 +1,6 @@
 # **Sergei Severin**
 
-## Contact
+## Contacts
 
 **Location:** Pinsk, Belarus  
 **Phone:** +375293093470  
