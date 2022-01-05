@@ -80,7 +80,6 @@ html {
   
   .section-profile {
 display: flex; 
-border: solid 1px red;
 }
 
 @media (max-width: 768px) {
@@ -91,5 +90,11 @@ border: solid 1px red;
 
 .round {
   border-radius: 80%;
+flex: 0.1;
+padding: 10PX;
+margin-right: 300px;
 }
 
+.section-title {
+  flex: 1;
+}
