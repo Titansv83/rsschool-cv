@@ -19,6 +19,9 @@ html {
  background-color: cadetblue;
 }
 
+.footer {
+   background-color: cadetblue;
+}
 
 
 .body {
@@ -34,7 +37,14 @@ html {
 .container {
        max-width: 1440px;
        margin: 0 auto;
-    }
+        }
+
+.container-1 {
+display: flex;
+justify-content: space-between;
+margin: 5 0;
+           }
+            
 
 .nav-list {
       display: flex;
@@ -58,7 +68,7 @@ html {
 }
 
 .nav-item a:hover {
-  color: #4d2323;
+  color: greenyellow;
 }
 
 .contacts {
@@ -96,12 +106,24 @@ font-weight: 300;
 }
 
 .round {
-  border-radius: 80%;
+border-radius: 80%;
 flex: 0.1;
-padding: 10PX;
+padding: 10px;
 margin-right: 300px;
 }
 
 .section-title {
   flex: 1;
+}
+.author {
+  display: block;
+  font-size: 25;
+  color: yellow;
+  text-decoration: none;
+  transition: color 0,5s;
+  transition: .3s;
+}
+
+.author:hover {
+  color: greenyellow;
 }
