@@ -32,7 +32,7 @@ html {
      display: flex;
      flex-direction: column;
      justify-content: space-between;  
-    }
+         }
       
 .container {
       max-width: 1440px;
@@ -48,6 +48,8 @@ html {
      justify-content: flex-start;
      align-items: center;
      list-style: none;
+     margin-left: 1em;
+     padding-left: 1em;
     }
 
 .nav-link {
@@ -56,6 +58,7 @@ html {
      font-size: 18px;
      text-decoration: none;
      transition: 0.3s; 
+     
 }
 
 .nav-item a {
@@ -71,7 +74,9 @@ html {
 
 .contacts {
          
-       list-style: none;
+      list-style: none;
+      margin-left: 0px;
+      padding-left: 0px;
 }
 
 .bold {
@@ -84,7 +89,9 @@ html {
         } 
  
 .section {
+  padding-left: 40px;
        width: 50%;
+
 }
   
 .section-profile {
@@ -105,6 +112,7 @@ html {
         font-family: 'Open Sans';
         font-size: 35px;
         font-weight: bold;
+        text-transform: uppercase;
         color: cadetblue;
 }
 
@@ -117,14 +125,14 @@ html {
 .section-title {
   font-family: 'Open Sans';
   font-size: 25px;
-  text-decoration: underline;
   color: cadetblue;
 }
 
 
 .container-1 {
   display: flex;
-  justify-content: space-between;
+   justify-content: space-between;
+  flex-wrap: wrap;
   margin: 5 0;
   align-items: center;
 }
@@ -147,5 +155,39 @@ html {
 }
 
 .cont-item {
+  list-style-position: outside;
   margin-bottom: 10px;
 }
+
+ .code {
+font-size: 18px;
+
+ }
+
+ .qualities {
+  list-style-position: outside;
+  
+ }
+
+
+ .section::before {
+  content: '';
+  display: block;
+  border-top: 2px solid cadetblue;
+  
+  }
+
+  .skills {
+    margin-left: 1em;
+    padding-left: 1em;
+  }
+
+  .education {
+    margin-left: 1em;
+    padding-left: 1em;
+  }
+
+  .languages {
+    margin-left: 1em;
+    padding-left: 1em;
+  }
