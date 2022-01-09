@@ -44,7 +44,7 @@ html {
 
 .nav-list {
      display: flex;
-      flex-wrap: wrap;
+     flex-wrap: wrap;
      justify-content: flex-start;
      align-items: center;
      list-style: none;
@@ -104,11 +104,11 @@ html {
 .round {
         border-radius: 80%;
         border: 5px solid cadetblue;
-        margin: 10 0;
+        margin: 10 0 10 30;
 }
 
 .myname {
-        margin: 0 0 0 10;
+        margin: 0 0 0 30;
         font-family: 'Open Sans';
         font-size: 35px;
         font-weight: bold;
