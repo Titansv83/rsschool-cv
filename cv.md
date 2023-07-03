@@ -34,7 +34,7 @@ function multiply(a, b) {
 ---
 ## Education
 * Belarusian State Technological University, electrical engineer
-* ru.code-basics.com (HTML and CSS)
+* ru.code-basics.com (HTML, CSS, JavaScript)
 ***
 ## Languages
 * Russian - native
