@@ -6,7 +6,8 @@
 **Phone:** +375293093470  
 **E-mail:** titansv@gmail.com  
 **Discord:** Titansv (@Titansv83)
-********
+
+***
 
 ## About me  
 Acting automation engineer at a power plant (more then 10 years).
@@ -19,6 +20,7 @@ My strong qualities:
 * Assiduity
 
 ***
+
 ## Skills
 * HTML
 * CSS
@@ -26,6 +28,7 @@ My strong qualities:
 * JavaScript
 
 ***
+
 ## Code Example
 ```
 function multiply(a, b) { 
@@ -33,10 +36,13 @@ function multiply(a, b) {
  } ​
 ```
 ---
+
 ## Education
 * Belarusian State Technological University, electrical engineer
 * ru.code-basics.com (HTML, CSS, JavaScript)
+
 ***
+
 ## Languages
 * Russian - native
 * English - A1
