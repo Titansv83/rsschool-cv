@@ -79,7 +79,7 @@ table {
       .main-container {
              display: flex;
              flex-wrap: wrap;
-           }       
+           }
       .section {
         padding-left: 40px;
              width: 50%;
@@ -108,7 +108,7 @@ table {
           width: 100%;
         }
       }
-      
+
       .section-title {
         font-family: 'Open Sans';
         font-size: 25px;
