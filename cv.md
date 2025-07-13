@@ -2,16 +2,16 @@
 
 ## Contacts
 
-**Location:** Pinsk, Belarus  
-**Phone:** +375293093470  
-**E-mail:** titansv@gmail.com  
+**Location:** Pinsk, Belarus
+**Phone:** +375293093470
+**E-mail:** titansv@gmail.com
 **Discord:** Titansv (@Titansv83)
 
 ***
 
-## About me  
+## About me
 Acting automation engineer at a power plant (more then 10 years).
-My goal is to study programming for the purpose of further employment. 
+My goal is to study programming for the purpose of further employment.
 
 My strong qualities:
 * Analytical mindset
@@ -31,9 +31,9 @@ My strong qualities:
 
 ## Code Example
 ```
-function multiply(a, b) { 
+function multiply(a, b) {
  return a * b;
- } ​
+ }
 ```
 ---
 
